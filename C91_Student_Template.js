@@ -13,7 +13,7 @@ car2_image = "car2.png";
 car2_x = 10;
 car2_y = 100;
 
-background_image = "racing.jpg";
+background_image = "racing.gif";
 
 function add() {
 	background_imgTag = new Image(); //defining a variable with a new image
